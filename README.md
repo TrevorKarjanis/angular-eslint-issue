@@ -1,4 +1,4 @@
-# Angular ESLint Issue
+# [Angular ESLint Issue 617](https://github.com/angular-eslint/angular-eslint/issues/617)
 
 Demonstrate that VSCode lints the root application after migrating a project library.
 
